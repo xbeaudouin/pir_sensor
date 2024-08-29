@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 from gpiozero import MotionSensor
 from subprocess import call
 from time import sleep
